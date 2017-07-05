@@ -1,0 +1,25 @@
+body {
+	background-image: url('images/fabric.png');
+}
+.demo-wrapper {
+	text-align: center;
+}
+.demo-wrapper .section-1 {
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
+.demo-wrapper a {
+	display: block;
+	margin: auto;
+	width: 150px;
+	height: 50px;
+	line-height: 53px;
+	color: #fff;
+	text-decoration: none;	
+}
+.demo-wrapper a.pdf {
+	background-color: #c0392b;
+}
+.demo-wrapper a.img {
+	background-color: #27ae60;
+}
